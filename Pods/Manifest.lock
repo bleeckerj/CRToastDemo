@@ -1,0 +1,14 @@
+PODS:
+  - CRToast (0.0.3)
+
+DEPENDENCIES:
+  - CRToast (from `https://github.com/vIiRuS/CRToast.git`)
+
+EXTERNAL SOURCES:
+  CRToast:
+    :git: https://github.com/vIiRuS/CRToast.git
+
+SPEC CHECKSUMS:
+  CRToast: 098268afe8f33eea983196badd9c2ca6b1f4e621
+
+COCOAPODS: 0.29.0
